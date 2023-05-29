@@ -1,0 +1,9 @@
+# GitIgnoreFile
+
+ignore library/
+another file.txt.bak
+new 2.txt.bak
+new revert file.txt.bak
+.gitignore.bak
+.project
+.project.bak
