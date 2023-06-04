@@ -7,3 +7,5 @@ new revert file.txt.bak
 .gitignore.bak
 .project
 .project.bak
+logs/*
+!.gitkeep
